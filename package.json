@@ -9,7 +9,7 @@
     "export": "sapper export",
     "start": "node __sapper__/build"
   },
-  "author": "Oscar Barajas <oscar@platzi.com>",
+  "author": "Gnxcode <gnxcode.dev@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "compression": "^1.7.4",
